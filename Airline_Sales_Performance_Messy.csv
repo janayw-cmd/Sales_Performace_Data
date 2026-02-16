@@ -1,0 +1,251 @@
+BookingID,BookingDate,Airline,Route,Class,SalesChannel,Region,TicketsSold,TicketPrice,Discount,TotalSales,BaggageAddon,SeatSelectionAddon
+5000,04/01/2025,AirNova,NYC-LAX,First,Agent,North America,0,896.0,0.1,0.0,Yes,YES
+5001,09/01/2025,AirNova,NYC-DAL,Business,online,north america,1,1332.51,,1332.51,Yes,Yes
+5002,21/01/2025,FlyFast,NYC-LAX,Economy,Online,north america,-1,1377.39,,-1377.39,No,NO
+5003,23/02/2025,SkyJet,CHI-MIA,Business,mobile app,Asia,2,669.57,,1339.14,NO,NO
+5004,24/01/2025,flyfast,NYC-LAX,economy,Online,Asia,-1,584.94,,-584.94,Yes,NO
+5005,25/01/2025,flyfast,CHI-MIA,Economy,online,North America,-1,1496.62,,-1496.62,Yes,No
+5006,01/02/2025,skyjet,NYC-DAL,First,online,north america,-2,1157.28,0.0,-2314.56,Yes,YES
+5007,30/01/2025,skyjet,NYC-LAX,Business,Agent,Europe,4,269.9,0.0,1079.6,No,Yes
+5008,06/01/2025,FlyFast,NYC-LAX,First,Online,Asia,-2,1438.96,0.0,-2877.92,No,NO
+5009,23/01/2025,SkyJet,DAL-LAX,economy,Mobile App,North America,0,444.25,0.0,0.0,Yes,NO
+5010,04/02/2025,AirNova,LAX-CHI,Business,Mobile App,Europe,0,285.0,0.05,0.0,NO,NO
+5011,04/01/2025,skyjet,MIA-NYC,Economy,Agent,Asia,-2,1211.73,0.0,-2423.46,YES,No
+5012,25/02/2025,flyfast,NYC-DAL,economy,Agent,North America,5,1352.94,0.1,6088.23,Yes,No
+5013,01/03/2025,flyfast,LAX-CHI,economy,Agent,Europe,0,230.9,0.05,0.0,YES,Yes
+5014,13/01/2025,AirNova,NYC-DAL,economy,Online,Europe,0,862.0,0.05,0.0,NO,NO
+5015,16/02/2025,FlyFast,NYC-LAX,Business,mobile app,Asia,3,1279.67,0.05,3647.06,Yes,NO
+5016,22/01/2025,flyfast,NYC-LAX,Economy,Agent,Asia,-2,614.97,,-1229.94,No,YES
+5017,22/02/2025,skyjet,MIA-NYC,Economy,Mobile App,Asia,5,1301.74,,6508.7,No,Yes
+5018,28/02/2025,AirNova,NYC-LAX,Business,mobile app,Europe,1,928.64,0.1,835.78,Yes,NO
+5019,06/02/2025,AirNova,LAX-CHI,First,Agent,Asia,5,1429.33,,7146.65,No,No
+5020,04/01/2025,skyjet,NYC-LAX,Economy,Mobile App,Asia,0,179.01,0.05,0.0,No,No
+5021,27/02/2025,skyjet,NYC-DAL,Economy,Mobile App,Europe,-1,1127.19,0.05,-1070.83,Yes,No
+5022,19/01/2025,skyjet,MIA-NYC,Business,Mobile App,North America,-1,1049.8,0.05,-997.31,Yes,No
+5023,03/02/2025,skyjet,DAL-LAX,economy,Agent,Asia,-1,848.38,0.0,-848.38,NO,No
+5024,21/02/2025,skyjet,NYC-DAL,Economy,Mobile App,Asia,4,906.61,,3626.44,No,YES
+5025,01/02/2025,skyjet,LAX-CHI,economy,online,North America,2,677.04,0.0,1354.08,Yes,NO
+5026,11/02/2025,AirNova,NYC-DAL,Economy,Online,north america,4,539.77,0.1,1943.17,No,YES
+5027,02/02/2025,SkyJet,DAL-LAX,Business,online,Asia,2,824.56,,1649.12,NO,YES
+5028,25/01/2025,SkyJet,MIA-NYC,Economy,Agent,north america,4,288.37,0.1,1038.13,Yes,NO
+5029,03/02/2025,AirNova,CHI-MIA,Business,online,Asia,0,1264.99,0.0,0.0,No,Yes
+5030,19/02/2025,skyjet,MIA-NYC,economy,Mobile App,north america,4,344.34,0.0,1377.36,No,Yes
+5031,07/01/2025,skyjet,LAX-CHI,First,Mobile App,north america,4,329.34,,1317.36,Yes,YES
+5032,12/02/2025,SkyJet,CHI-MIA,First,online,north america,-2,1046.79,0.0,-2093.58,Yes,No
+5033,21/01/2025,FlyFast,CHI-MIA,economy,Online,North America,5,1396.19,0.1,6282.86,YES,YES
+5034,05/02/2025,SkyJet,NYC-DAL,Business,Mobile App,Europe,-1,1330.0,0.1,-1197.0,No,No
+5035,14/02/2025,SkyJet,CHI-MIA,Economy,Agent,North America,0,569.38,0.0,0.0,YES,NO
+5036,10/02/2025,SkyJet,LAX-CHI,economy,Agent,Asia,0,1348.64,0.05,0.0,NO,Yes
+5037,17/01/2025,SkyJet,DAL-LAX,economy,online,Europe,2,1499.88,0.0,2999.76,No,Yes
+5038,27/02/2025,SkyJet,CHI-MIA,Economy,Agent,Europe,-2,248.02,0.1,-446.44,Yes,Yes
+5039,28/02/2025,AirNova,CHI-MIA,Business,Mobile App,north america,1,974.66,,974.66,NO,No
+5040,13/02/2025,skyjet,LAX-CHI,First,Online,Asia,2,1234.59,0.05,2345.72,Yes,YES
+5041,04/02/2025,AirNova,MIA-NYC,economy,Mobile App,Europe,1,1211.9,,1211.9,No,Yes
+5042,10/02/2025,flyfast,DAL-LAX,economy,Agent,Europe,5,1038.5,0.1,4673.25,No,YES
+5043,28/01/2025,skyjet,MIA-NYC,Economy,Mobile App,North America,0,185.33,0.05,0.0,Yes,NO
+5044,07/02/2025,skyjet,MIA-NYC,First,mobile app,Europe,1,726.26,0.1,653.63,Yes,YES
+5045,13/02/2025,SkyJet,LAX-CHI,Economy,Online,Asia,-2,1033.43,,-2066.86,NO,Yes
+5046,06/01/2025,SkyJet,LAX-CHI,economy,online,Europe,0,483.21,,0.0,YES,Yes
+5047,24/02/2025,SkyJet,NYC-DAL,economy,mobile app,North America,0,1221.99,,0.0,Yes,No
+5048,19/01/2025,FlyFast,CHI-MIA,Business,mobile app,Europe,2,637.35,0.0,1274.7,NO,No
+5049,18/02/2025,FlyFast,DAL-LAX,economy,Online,North America,2,818.94,0.0,1637.88,NO,YES
+5050,26/02/2025,flyfast,MIA-NYC,Business,Agent,Asia,0,783.63,0.05,0.0,Yes,Yes
+5051,14/02/2025,flyfast,DAL-LAX,economy,Agent,North America,0,350.79,,0.0,YES,YES
+5052,02/02/2025,skyjet,MIA-NYC,Economy,Mobile App,north america,0,816.8,,0.0,YES,Yes
+5053,28/01/2025,FlyFast,MIA-NYC,Business,Online,Asia,-1,731.91,0.0,-731.91,Yes,Yes
+5054,15/02/2025,AirNova,CHI-MIA,Business,online,Asia,0,442.32,0.05,0.0,YES,NO
+5055,13/01/2025,FlyFast,MIA-NYC,Economy,Agent,north america,0,548.85,0.0,0.0,No,YES
+5056,20/02/2025,SkyJet,NYC-LAX,economy,mobile app,North America,0,700.2,,0.0,Yes,YES
+5057,12/01/2025,AirNova,LAX-CHI,Business,Mobile App,Asia,1,615.52,,615.52,Yes,YES
+5058,17/01/2025,SkyJet,DAL-LAX,Economy,Agent,north america,2,702.71,,1405.42,NO,NO
+5059,15/02/2025,SkyJet,MIA-NYC,Economy,Online,Europe,-2,1269.83,0.1,-2285.69,No,No
+5060,05/01/2025,AirNova,NYC-DAL,economy,Online,North America,0,563.46,0.05,0.0,No,No
+5061,14/02/2025,AirNova,LAX-CHI,Business,mobile app,Asia,0,1160.66,0.0,0.0,NO,YES
+5062,14/01/2025,AirNova,LAX-CHI,First,mobile app,north america,3,759.7,0.1,2051.19,NO,NO
+5063,30/01/2025,AirNova,MIA-NYC,Business,Online,Asia,0,1285.16,,0.0,YES,YES
+5064,19/02/2025,SkyJet,LAX-CHI,First,mobile app,Asia,0,444.39,0.1,0.0,YES,YES
+5065,28/02/2025,FlyFast,DAL-LAX,Economy,mobile app,Asia,-1,762.79,0.05,-724.65,YES,No
+5066,14/02/2025,flyfast,LAX-CHI,economy,Agent,Asia,-1,490.15,0.05,-465.64,YES,No
+5067,13/01/2025,flyfast,NYC-DAL,Economy,Agent,north america,5,369.65,0.1,1663.42,YES,No
+5068,03/01/2025,SkyJet,LAX-CHI,Economy,Agent,north america,-1,720.48,0.0,-720.48,Yes,YES
+5069,11/02/2025,SkyJet,MIA-NYC,economy,online,Europe,2,923.02,,1846.04,Yes,NO
+5070,20/01/2025,FlyFast,MIA-NYC,economy,mobile app,north america,-1,1146.73,,-1146.73,YES,YES
+5071,11/01/2025,flyfast,LAX-CHI,economy,Mobile App,North America,0,364.56,0.0,0.0,NO,NO
+5072,15/01/2025,flyfast,DAL-LAX,economy,mobile app,Asia,-2,895.09,0.1,-1611.16,YES,YES
+5073,09/02/2025,skyjet,LAX-CHI,Economy,Online,Asia,-2,217.99,,-435.98,No,Yes
+5074,28/01/2025,flyfast,CHI-MIA,Economy,Mobile App,North America,-2,295.6,,-591.2,No,Yes
+5075,14/02/2025,FlyFast,MIA-NYC,Business,Agent,North America,0,471.2,0.0,0.0,Yes,Yes
+5076,11/02/2025,AirNova,CHI-MIA,First,Mobile App,Asia,2,367.62,0.1,661.72,YES,NO
+5077,18/02/2025,skyjet,DAL-LAX,economy,Mobile App,Europe,-1,1490.83,0.1,-1341.75,NO,NO
+5078,13/02/2025,SkyJet,DAL-LAX,economy,Mobile App,north america,5,1448.74,0.1,6519.33,NO,No
+5079,15/02/2025,SkyJet,DAL-LAX,First,Agent,Asia,1,478.14,0.1,430.33,YES,NO
+5080,12/01/2025,skyjet,LAX-CHI,economy,online,Europe,4,646.71,,2586.84,No,No
+5081,20/02/2025,skyjet,NYC-LAX,economy,Mobile App,Europe,1,1450.97,0.1,1305.87,NO,NO
+5082,09/02/2025,SkyJet,NYC-LAX,economy,online,Asia,4,834.28,0.0,3337.12,No,YES
+5083,13/01/2025,skyjet,NYC-LAX,Economy,Online,Asia,-2,1000.61,0.05,-1901.16,No,NO
+5084,21/02/2025,skyjet,NYC-DAL,economy,online,North America,0,1312.82,0.1,0.0,NO,No
+5085,09/01/2025,flyfast,MIA-NYC,Business,online,north america,-1,994.74,0.1,-895.27,Yes,NO
+5086,24/02/2025,SkyJet,DAL-LAX,Economy,Agent,North America,0,1187.51,0.1,0.0,Yes,YES
+5087,10/02/2025,skyjet,CHI-MIA,First,online,Asia,5,932.6,0.1,4196.7,NO,No
+5088,28/02/2025,FlyFast,CHI-MIA,Business,online,Asia,0,303.37,,0.0,Yes,No
+5089,26/01/2025,FlyFast,DAL-LAX,economy,online,Europe,0,435.03,0.05,0.0,No,YES
+5090,28/01/2025,skyjet,NYC-DAL,First,Mobile App,north america,0,1459.35,0.05,0.0,YES,YES
+5091,04/01/2025,FlyFast,CHI-MIA,Business,online,Asia,0,1465.64,,0.0,YES,NO
+5092,12/01/2025,AirNova,LAX-CHI,Business,mobile app,North America,0,591.49,,0.0,Yes,Yes
+5093,01/02/2025,SkyJet,NYC-DAL,Economy,Mobile App,North America,2,583.42,0.05,1108.5,No,YES
+5094,13/01/2025,skyjet,MIA-NYC,Economy,Online,North America,-1,574.82,0.05,-546.08,YES,NO
+5095,17/02/2025,FlyFast,NYC-DAL,economy,Online,Asia,1,1030.95,0.1,927.86,Yes,YES
+5096,28/02/2025,FlyFast,NYC-DAL,economy,mobile app,north america,2,346.42,0.1,623.56,No,Yes
+5097,16/01/2025,skyjet,NYC-LAX,Business,Agent,Europe,0,1385.41,0.0,0.0,Yes,No
+5098,06/01/2025,flyfast,DAL-LAX,First,online,Europe,0,408.9,,0.0,NO,Yes
+5099,05/01/2025,SkyJet,NYC-LAX,Economy,Mobile App,Asia,0,1120.57,0.05,0.0,No,YES
+5100,09/01/2025,flyfast,LAX-CHI,Business,Agent,North America,4,498.79,0.0,1995.16,No,NO
+5101,12/02/2025,FlyFast,CHI-MIA,Economy,online,Asia,0,1141.87,0.1,0.0,NO,No
+5102,11/01/2025,skyjet,LAX-CHI,First,Agent,North America,1,734.79,0.05,698.05,NO,No
+5103,21/01/2025,flyfast,NYC-DAL,Business,mobile app,North America,-1,1062.52,0.05,-1009.39,NO,NO
+5104,09/01/2025,FlyFast,DAL-LAX,Economy,Agent,north america,2,964.95,0.1,1736.91,No,YES
+5105,21/01/2025,FlyFast,CHI-MIA,Economy,online,North America,-2,706.94,0.0,-1413.88,No,YES
+5106,19/01/2025,FlyFast,DAL-LAX,economy,Mobile App,North America,0,352.47,0.1,0.0,YES,No
+5107,12/01/2025,AirNova,NYC-LAX,First,Agent,north america,4,130.75,0.0,523.0,YES,NO
+5108,28/01/2025,skyjet,CHI-MIA,Business,Agent,North America,2,120.16,0.0,240.32,No,No
+5109,23/02/2025,skyjet,MIA-NYC,Economy,online,Asia,0,323.92,0.05,0.0,YES,Yes
+5110,04/01/2025,SkyJet,LAX-CHI,First,Mobile App,Europe,-2,249.7,0.1,-449.46,YES,NO
+5111,08/02/2025,AirNova,DAL-LAX,Economy,mobile app,north america,-1,1204.74,,-1204.74,Yes,NO
+5112,24/02/2025,skyjet,CHI-MIA,First,mobile app,Asia,3,1181.82,,3545.46,No,Yes
+5113,26/02/2025,skyjet,CHI-MIA,Economy,online,Europe,4,1175.34,,4701.36,NO,YES
+5114,14/01/2025,FlyFast,NYC-LAX,First,Agent,North America,2,422.83,0.05,803.38,YES,No
+5115,27/01/2025,AirNova,DAL-LAX,economy,mobile app,North America,0,479.61,0.0,0.0,Yes,No
+5116,12/02/2025,FlyFast,MIA-NYC,Business,mobile app,Europe,-2,330.49,0.05,-627.93,Yes,NO
+5117,13/02/2025,SkyJet,CHI-MIA,economy,Online,North America,0,1019.66,0.0,0.0,YES,No
+5118,12/02/2025,AirNova,NYC-DAL,Business,mobile app,north america,0,778.11,0.0,0.0,No,No
+5119,19/01/2025,FlyFast,NYC-LAX,Economy,mobile app,North America,-1,1371.58,0.05,-1303.0,Yes,NO
+5120,03/02/2025,SkyJet,LAX-CHI,Business,Agent,Europe,-2,981.43,0.05,-1864.72,YES,NO
+5121,27/01/2025,skyjet,NYC-LAX,economy,Agent,Asia,5,1477.1,0.1,6646.95,Yes,YES
+5122,31/01/2025,skyjet,DAL-LAX,Business,Agent,Europe,0,1460.0,0.0,0.0,Yes,YES
+5123,27/02/2025,AirNova,CHI-MIA,economy,mobile app,Europe,-2,1096.64,0.05,-2083.62,No,NO
+5124,18/02/2025,flyfast,CHI-MIA,First,Agent,Asia,0,970.2,0.0,0.0,NO,YES
+5125,04/02/2025,AirNova,MIA-NYC,Economy,Agent,Europe,1,1443.98,0.1,1299.58,YES,No
+5126,15/02/2025,SkyJet,DAL-LAX,economy,Agent,North America,0,1022.2,0.0,0.0,NO,YES
+5127,02/02/2025,skyjet,NYC-LAX,economy,mobile app,north america,0,1071.2,0.05,0.0,Yes,YES
+5128,22/01/2025,SkyJet,NYC-DAL,economy,Mobile App,Asia,-1,185.77,,-185.77,YES,Yes
+5129,22/02/2025,AirNova,NYC-DAL,Economy,mobile app,North America,-1,332.97,,-332.97,NO,NO
+5130,04/01/2025,SkyJet,LAX-CHI,Economy,online,North America,4,833.99,0.0,3335.96,No,Yes
+5131,26/01/2025,FlyFast,NYC-DAL,First,Mobile App,Europe,-1,790.43,0.05,-750.91,Yes,NO
+5132,23/01/2025,flyfast,LAX-CHI,First,Agent,Europe,2,1003.98,,2007.96,Yes,NO
+5133,03/02/2025,AirNova,NYC-DAL,Business,Agent,Asia,0,594.31,0.0,0.0,YES,NO
+5134,27/01/2025,FlyFast,DAL-LAX,First,mobile app,Europe,0,787.74,0.05,0.0,NO,No
+5135,12/02/2025,FlyFast,NYC-LAX,Business,Agent,north america,2,1096.35,0.1,1973.43,NO,Yes
+5136,31/01/2025,skyjet,MIA-NYC,Business,Online,North America,-1,248.81,0.05,-236.37,No,YES
+5137,27/02/2025,AirNova,DAL-LAX,economy,Online,north america,-1,1458.02,0.1,-1312.22,YES,NO
+5138,24/02/2025,FlyFast,CHI-MIA,economy,mobile app,North America,3,1170.51,,3511.53,No,Yes
+5139,07/01/2025,SkyJet,LAX-CHI,First,Online,north america,0,1404.06,0.0,0.0,No,NO
+5140,08/01/2025,AirNova,NYC-LAX,Economy,mobile app,north america,0,1390.28,0.1,0.0,No,No
+5141,07/02/2025,AirNova,MIA-NYC,First,Agent,North America,-2,188.69,0.1,-339.64,NO,YES
+5142,22/01/2025,AirNova,MIA-NYC,economy,online,north america,-2,382.2,,-764.4,NO,No
+5143,22/02/2025,flyfast,NYC-DAL,Business,Agent,Europe,5,1143.2,0.1,5144.4,Yes,YES
+5144,21/02/2025,FlyFast,NYC-LAX,economy,Online,North America,2,1107.69,0.05,2104.61,Yes,YES
+5145,04/02/2025,flyfast,NYC-LAX,Economy,mobile app,north america,-1,1062.68,0.05,-1009.55,YES,NO
+5146,12/01/2025,SkyJet,NYC-LAX,First,Agent,north america,-2,625.96,0.0,-1251.92,Yes,Yes
+5147,10/02/2025,flyfast,CHI-MIA,First,Agent,North America,0,647.14,0.0,0.0,No,No
+5148,16/01/2025,FlyFast,CHI-MIA,Business,online,North America,4,1459.41,,5837.64,Yes,NO
+5149,17/02/2025,FlyFast,DAL-LAX,economy,Mobile App,Asia,0,968.86,,0.0,No,No
+5150,24/01/2025,flyfast,CHI-MIA,Business,mobile app,Europe,0,646.17,0.05,0.0,YES,Yes
+5151,17/02/2025,skyjet,DAL-LAX,Business,Online,Asia,-1,564.7,0.0,-564.7,No,YES
+5152,18/02/2025,flyfast,CHI-MIA,Business,Online,Asia,0,1168.42,0.1,0.0,YES,NO
+5153,17/02/2025,SkyJet,NYC-LAX,First,Online,Europe,0,400.83,0.1,0.0,NO,Yes
+5154,14/02/2025,AirNova,NYC-LAX,Economy,Mobile App,Europe,0,736.09,0.05,0.0,No,YES
+5155,22/01/2025,SkyJet,DAL-LAX,Business,mobile app,Asia,-1,1038.29,0.0,-1038.29,No,No
+5156,18/01/2025,flyfast,DAL-LAX,Business,online,Europe,-1,1084.39,0.1,-975.95,YES,Yes
+5157,07/02/2025,FlyFast,NYC-LAX,First,Online,north america,4,220.35,0.1,793.26,No,NO
+5158,05/01/2025,flyfast,LAX-CHI,First,Mobile App,Asia,5,708.82,0.1,3189.69,NO,NO
+5159,05/01/2025,FlyFast,MIA-NYC,Business,online,north america,0,804.35,0.0,0.0,NO,No
+5160,01/02/2025,flyfast,NYC-LAX,Business,Mobile App,North America,5,190.27,0.0,951.35,No,YES
+5161,13/01/2025,flyfast,NYC-LAX,economy,mobile app,North America,0,238.73,0.1,0.0,Yes,Yes
+5162,01/03/2025,AirNova,MIA-NYC,economy,Online,North America,0,586.46,0.05,0.0,Yes,No
+5163,24/02/2025,SkyJet,LAX-CHI,Business,Online,Europe,4,416.9,0.1,1500.84,NO,NO
+5164,09/02/2025,FlyFast,LAX-CHI,Economy,Agent,North America,-1,223.6,0.0,-223.6,NO,NO
+5165,14/02/2025,FlyFast,LAX-CHI,First,Agent,Europe,0,403.99,,0.0,YES,NO
+5166,18/02/2025,AirNova,MIA-NYC,Business,Agent,North America,0,1330.52,0.1,0.0,No,NO
+5167,20/02/2025,flyfast,LAX-CHI,economy,Online,Asia,0,462.88,,0.0,No,YES
+5168,31/01/2025,AirNova,CHI-MIA,First,Agent,north america,-2,1232.28,0.0,-2464.56,No,Yes
+5169,12/02/2025,flyfast,LAX-CHI,economy,Online,north america,0,702.04,,0.0,Yes,NO
+5170,16/02/2025,AirNova,LAX-CHI,Business,mobile app,North America,3,566.34,0.0,1699.02,NO,No
+5171,10/02/2025,AirNova,CHI-MIA,economy,Mobile App,North America,0,1079.0,0.05,0.0,No,Yes
+5172,08/01/2025,FlyFast,MIA-NYC,Business,online,north america,0,1360.25,,0.0,Yes,Yes
+5173,27/02/2025,skyjet,NYC-DAL,First,Mobile App,Europe,-1,224.17,0.1,-201.75,YES,No
+5174,27/01/2025,skyjet,MIA-NYC,economy,online,Europe,-1,852.11,0.0,-852.11,Yes,NO
+5175,25/02/2025,AirNova,NYC-DAL,Economy,Online,North America,0,342.65,,0.0,No,YES
+5176,01/03/2025,flyfast,CHI-MIA,Economy,Agent,Europe,-1,1265.27,,-1265.27,YES,No
+5177,09/01/2025,SkyJet,MIA-NYC,Business,online,north america,0,1177.52,0.0,0.0,No,Yes
+5178,28/01/2025,SkyJet,DAL-LAX,First,Online,north america,4,1163.07,,4652.28,No,YES
+5179,20/02/2025,flyfast,CHI-MIA,Business,Agent,north america,5,1475.5,0.0,7377.5,NO,Yes
+5180,28/02/2025,skyjet,MIA-NYC,Economy,Online,Europe,-2,385.31,0.0,-770.62,YES,YES
+5181,01/02/2025,skyjet,NYC-LAX,economy,online,north america,2,460.92,0.0,921.84,No,Yes
+5182,03/01/2025,skyjet,MIA-NYC,Economy,mobile app,Europe,-1,1457.63,0.05,-1384.75,NO,NO
+5183,31/01/2025,skyjet,NYC-DAL,Economy,Online,Asia,3,1222.75,0.0,3668.25,No,Yes
+5184,27/02/2025,FlyFast,LAX-CHI,economy,online,north america,-1,937.25,0.1,-843.52,No,Yes
+5185,08/01/2025,flyfast,CHI-MIA,First,Online,north america,3,300.72,0.0,902.16,No,NO
+5186,17/02/2025,skyjet,MIA-NYC,Economy,Online,Asia,0,667.99,0.0,0.0,NO,Yes
+5187,29/01/2025,SkyJet,LAX-CHI,Economy,Mobile App,North America,5,451.12,0.05,2142.82,YES,NO
+5188,09/01/2025,flyfast,DAL-LAX,First,online,north america,0,447.69,0.1,0.0,YES,Yes
+5189,12/01/2025,SkyJet,LAX-CHI,economy,online,North America,-1,984.12,0.05,-934.91,Yes,NO
+5190,14/01/2025,flyfast,MIA-NYC,economy,mobile app,Asia,1,224.81,0.1,202.33,NO,YES
+5191,11/01/2025,skyjet,MIA-NYC,Economy,mobile app,Europe,-1,678.01,0.1,-610.21,No,Yes
+5192,07/01/2025,flyfast,NYC-DAL,economy,Mobile App,Europe,-1,591.26,0.0,-591.26,YES,No
+5193,23/02/2025,AirNova,CHI-MIA,Business,mobile app,Asia,1,906.64,0.0,906.64,Yes,NO
+5194,03/02/2025,AirNova,NYC-LAX,economy,mobile app,North America,-2,188.27,0.05,-357.71,NO,YES
+5195,07/02/2025,AirNova,MIA-NYC,Economy,Mobile App,Asia,4,1443.47,,5773.88,Yes,YES
+5196,18/02/2025,AirNova,CHI-MIA,Economy,mobile app,Asia,3,957.61,0.1,2585.55,NO,YES
+5197,10/01/2025,FlyFast,MIA-NYC,Economy,Online,Europe,-2,645.78,0.1,-1162.4,NO,No
+5198,22/02/2025,FlyFast,LAX-CHI,economy,online,North America,-1,396.36,,-396.36,NO,No
+5199,27/01/2025,AirNova,CHI-MIA,First,mobile app,Europe,1,1159.64,0.05,1101.66,YES,NO
+5200,05/02/2025,SkyJet,NYC-LAX,economy,Agent,Asia,3,1102.64,0.1,2977.13,NO,Yes
+5201,20/02/2025,flyfast,NYC-DAL,First,Mobile App,Europe,5,1483.79,0.1,6677.06,YES,NO
+5202,04/01/2025,flyfast,DAL-LAX,Business,Online,Europe,1,248.32,,248.32,No,Yes
+5203,09/01/2025,FlyFast,CHI-MIA,First,Online,Europe,-2,931.27,0.0,-1862.54,Yes,YES
+5204,12/02/2025,SkyJet,NYC-LAX,economy,Agent,North America,3,417.62,,1252.86,Yes,Yes
+5205,29/01/2025,AirNova,NYC-LAX,First,online,Asia,0,343.22,0.0,0.0,NO,Yes
+5206,19/02/2025,flyfast,DAL-LAX,economy,Online,Europe,1,992.96,0.1,893.66,YES,YES
+5207,28/02/2025,AirNova,NYC-DAL,Business,mobile app,Europe,0,885.63,0.1,0.0,YES,YES
+5208,18/01/2025,FlyFast,NYC-LAX,First,mobile app,Europe,0,1069.31,0.1,0.0,No,NO
+5209,14/02/2025,SkyJet,NYC-LAX,Economy,Agent,Asia,0,646.44,0.05,0.0,Yes,Yes
+5210,04/01/2025,FlyFast,NYC-LAX,Business,Agent,North America,-1,731.58,,-731.58,NO,Yes
+5211,28/01/2025,skyjet,DAL-LAX,Economy,Mobile App,Europe,-2,1116.36,0.1,-2009.45,No,No
+5212,20/02/2025,skyjet,MIA-NYC,Business,online,North America,-1,1125.39,0.0,-1125.39,Yes,NO
+5213,02/01/2025,FlyFast,LAX-CHI,First,Online,Asia,0,1116.42,0.0,0.0,NO,Yes
+5214,15/01/2025,skyjet,CHI-MIA,First,Agent,Europe,0,671.48,,0.0,NO,NO
+5215,30/01/2025,flyfast,NYC-DAL,First,Online,north america,0,152.63,,0.0,Yes,No
+5216,14/02/2025,AirNova,NYC-DAL,Economy,Online,north america,0,261.62,0.1,0.0,No,YES
+5217,16/01/2025,FlyFast,CHI-MIA,Economy,Mobile App,north america,-1,354.03,0.05,-336.33,Yes,YES
+5218,25/02/2025,skyjet,MIA-NYC,First,mobile app,Asia,0,915.76,0.1,0.0,NO,Yes
+5219,24/01/2025,flyfast,MIA-NYC,economy,Agent,Asia,3,918.03,,2754.09,No,NO
+5220,21/02/2025,AirNova,CHI-MIA,First,Mobile App,North America,0,212.73,0.1,0.0,YES,No
+5221,27/01/2025,AirNova,LAX-CHI,Economy,Agent,Europe,0,1279.78,0.0,0.0,No,NO
+5222,20/01/2025,FlyFast,CHI-MIA,First,Online,north america,3,1214.1,0.1,3278.07,No,No
+5223,12/01/2025,skyjet,NYC-LAX,First,Mobile App,Europe,1,952.6,0.1,857.34,No,YES
+5224,14/01/2025,SkyJet,NYC-DAL,Economy,online,north america,0,1351.67,,0.0,YES,NO
+5225,06/01/2025,flyfast,MIA-NYC,Business,Online,Asia,1,1169.15,0.1,1052.24,No,YES
+5226,31/01/2025,AirNova,NYC-LAX,economy,Mobile App,north america,-2,334.83,0.1,-602.69,NO,No
+5227,16/02/2025,AirNova,LAX-CHI,Business,Mobile App,North America,4,1198.9,0.1,4316.04,No,Yes
+5228,12/01/2025,AirNova,NYC-LAX,Business,Mobile App,north america,0,1095.72,0.0,0.0,YES,YES
+5229,12/01/2025,SkyJet,NYC-LAX,First,mobile app,north america,4,1490.73,,5962.92,YES,YES
+5230,22/01/2025,SkyJet,MIA-NYC,First,Online,Asia,-2,1468.77,,-2937.54,No,No
+5231,17/02/2025,FlyFast,LAX-CHI,First,Agent,North America,0,1149.92,0.0,0.0,No,Yes
+5232,02/01/2025,flyfast,NYC-DAL,economy,online,Europe,0,919.71,0.0,0.0,No,NO
+5233,28/01/2025,SkyJet,NYC-DAL,First,Agent,north america,5,891.19,,4455.95,NO,No
+5234,04/01/2025,skyjet,NYC-DAL,Economy,online,Asia,-1,554.83,,-554.83,No,YES
+5235,16/02/2025,flyfast,DAL-LAX,Business,online,Asia,0,1055.64,0.05,0.0,YES,No
+5236,17/02/2025,FlyFast,DAL-LAX,Economy,mobile app,Asia,-2,445.23,0.05,-845.94,No,NO
+5237,17/02/2025,flyfast,LAX-CHI,First,Online,Europe,-2,137.74,,-275.48,Yes,Yes
+5238,01/02/2025,FlyFast,NYC-LAX,economy,Online,Europe,-1,170.97,0.0,-170.97,YES,No
+5239,24/02/2025,SkyJet,NYC-DAL,Economy,Mobile App,Europe,-2,850.98,0.0,-1701.96,YES,No
+5240,24/02/2025,flyfast,DAL-LAX,Economy,Online,north america,4,890.78,0.0,3563.12,No,Yes
+5241,06/02/2025,AirNova,LAX-CHI,Economy,online,Europe,-2,204.59,0.05,-388.72,Yes,NO
+5242,22/01/2025,SkyJet,NYC-LAX,First,Online,Asia,0,210.87,0.05,0.0,Yes,No
+5243,01/03/2025,flyfast,CHI-MIA,economy,mobile app,north america,-1,265.31,0.0,-265.31,YES,YES
+5244,04/02/2025,FlyFast,MIA-NYC,Economy,Online,north america,5,724.47,0.0,3622.35,NO,YES
+5245,29/01/2025,SkyJet,NYC-LAX,First,Mobile App,north america,-2,608.39,0.0,-1216.78,No,No
+5246,17/01/2025,SkyJet,NYC-DAL,Economy,Mobile App,Asia,0,879.56,0.0,0.0,No,No
+5247,23/01/2025,FlyFast,MIA-NYC,First,online,north america,-1,258.46,0.1,-232.61,YES,YES
+5248,16/01/2025,flyfast,MIA-NYC,economy,Mobile App,Europe,1,479.02,0.1,431.12,NO,YES
+5249,12/02/2025,SkyJet,NYC-DAL,First,online,Europe,-2,1032.02,,-2064.04,YES,YES
